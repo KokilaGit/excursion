@@ -15,11 +15,17 @@ body{
     color:#fff;
 }
 .header-sub{
-    color:gray;
+    color:grey;
     font-size: 21px;
 }
 /* LINKS  */
 .top-link{
     font-size: 16px;
     color:aquamarine;
+}
+/*FOOTER*/
+.footer{
+    font-size: 21px;
+    color:grey;
+    text-align: right;
 }
